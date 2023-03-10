@@ -1,0 +1,11 @@
+
+>
+java:S1604-"(Make this anonymous inner class a lambda(Æ®êñ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(«‚ê×ýÿÿÿÿ
+Q
+java:S64370"6Revoke and change this password, as it is compromised.(«ŸÑªúÿÿÿÿ
+Q	java:S1251"<This block of commented-out lines of code should be removed.(›Š«
+V	java:S1253"<This block of commented-out lines of code should be removed.(€ëÃçûÿÿÿÿ
+N
+java:S1128"3Remove this unused import 'javafx.scene.text.Text'.(˜ÿ‡Üþÿÿÿÿ
